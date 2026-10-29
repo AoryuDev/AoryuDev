@@ -1,23 +1,30 @@
 # AoryuDev
-### Web development
 
-I build custom websites, landing pages, and frontend features for businesses and independent professionals. My programming background also includes Lua scripting and game systems.
+## React & TypeScript Developer
 
-## What I work on
+I specialize in React and TypeScript development. I build custom websites and web interfaces for businesses, founders, agencies, and independent professionals.
 
-- Business websites and personal portfolios
-- Landing pages and website redesigns
-- Responsive layouts and interactive features
-- Bug fixes and updates to existing code
+My work covers business websites, landing pages, portfolios, redesigns, and custom frontend features. I can build from an existing design or help work out the layout and functionality from a brief.
 
-## Current focus
+### Stack
 
-I'm building a set of website demos covering a renovation business, a software product, and an online store. These are independent portfolio projects, not client commissions.
+React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Vite
 
-## Working together
+### Development
 
-I speak fluent English and hold Cambridge English C1 Advanced certification. Before starting a project, I agree on the pages, features, and delivery scope, then share the work for review as development progresses.
+- React components with clear responsibilities and reusable layouts
+- Responsive pages for mobile, tablet, and desktop
+- Forms, navigation, filters, and interactive UI
+- API integrations with loading, empty, and error states
+- Frontend debugging, refactoring, and performance improvements
+- Implementation of designs in an existing codebase
 
-I use AI coding tools in my workflow and review, adapt, debug, and test the code myself.
+I pay attention to the parts people notice when they use a site: readable content, consistent spacing, keyboard navigation, useful feedback, and layouts that hold up on smaller screens. I also keep the code organized so future changes don't require rebuilding the page.
 
-[Discuss a project on Upwork](https://www.upwork.com/freelancers/~01012ac96bf5930186)
+### Working together
+
+I'm based in Brazil and speak fluent English, with Cambridge English C1 Advanced certification. I work with clients across industries and can discuss both the business requirements and the implementation in English.
+
+Before development starts, we agree on the pages, features, and scope. I share progress for review, flag questions as they come up, and test the agreed functionality before delivery.
+
+[Contact me on Upwork](https://www.upwork.com/freelancers/~01012ac96bf5930186)
