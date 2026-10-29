@@ -1,16 +1,23 @@
-## Hi there 👋
+# AoryuDev
+### Web development
 
-<!--
-**AoryuDev/AoryuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build custom websites, landing pages, and frontend features for businesses and independent professionals. My programming background also includes Lua scripting and game systems.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Business websites and personal portfolios
+- Landing pages and website redesigns
+- Responsive layouts and interactive features
+- Bug fixes and updates to existing code
+
+## Current focus
+
+I'm building a set of website demos covering a renovation business, a software product, and an online store. These are independent portfolio projects, not client commissions.
+
+## Working together
+
+I speak fluent English and hold Cambridge English C1 Advanced certification. Before starting a project, I agree on the pages, features, and delivery scope, then share the work for review as development progresses.
+
+I use AI coding tools in my workflow and review, adapt, debug, and test the code myself.
+
+[Discuss a project on Upwork](https://www.upwork.com/freelancers/~01012ac96bf5930186)
